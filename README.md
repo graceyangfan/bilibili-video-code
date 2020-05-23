@@ -5,5 +5,3 @@ CV比赛代码：
 https://pan.baidu.com/s/1djlfSGZfLEckGjJLZv09Qw 
 提取：tg30
 
-Videos:
-链接: https://pan.baidu.com/s/1laZVHCb73p5BBMW1ZHc3tg 提取码: 6gqa
