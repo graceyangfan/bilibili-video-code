@@ -1,0 +1,7 @@
+1、TransactionDT+自定义start_date转化为年月日；
+2、TransactionDT与某些时序相关的特征进行一些简单运算消除时序相关性
+3、TransactionAmt的对数变换
+4、所有类别特征的频率编码、目标编码和woe编码
+5、id类别特征与device特征的一些衍生工作
+6、高基数类别的合并编码（稀有类别合并）
+7、偏移程度较高的特征离散化
