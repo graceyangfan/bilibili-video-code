@@ -6,3 +6,8 @@ https://pan.baidu.com/s/1djlfSGZfLEckGjJLZv09Qw
 提取：tg30
 Videos:
 https://pan.baidu.com/s/4mqbI8sS
+
+收藏：
+NLP
+http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
+https://monkeylearn.com/blog/word-embeddings-transform-text-numbers/
