@@ -11,3 +11,5 @@ https://pan.baidu.com/s/4mqbI8sS
 NLP
 http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
 https://monkeylearn.com/blog/word-embeddings-transform-text-numbers/
+https://neptune.ai/blog/data-augmentation-nlp 
+https://qithub.com/makcedward/nlpaug
